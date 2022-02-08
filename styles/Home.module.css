@@ -8,7 +8,7 @@
 }
 
 .navbar{
-  background:#3474e6;
+  background:#000b1f;
   color:#fff;
   height:60px;
   
@@ -44,7 +44,7 @@
     
 }
 .header{
-  background-color: #0151cc;
+  background-color: #082e68;
   color:#fff;
   min-height:400px;
   }
@@ -74,7 +74,7 @@
   
   .box {
       flex:1;
-      background-color: #0151cc;
+      background-color: #082e68;
       margin:20px 10px;
       padding:15px 20px;
       border-radius: 8px;
