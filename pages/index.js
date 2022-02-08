@@ -20,7 +20,7 @@ export default function Home() {
                <h1>Time tracking software 2</h1>
                <p>Monitor team productivity and performance via automated tools: take screenshots and screen recordings, log team activity levels, monitor app and web use, and a lot more…</p>
            </div>
-           <Image src="/images/myimg01.jpg" width="1000" height="667"  /> 
+           <Image src="/images/myimg01.jpg" width="1000" height="667" alt="rcr" /> 
 
        </div>
    </header>
@@ -28,15 +28,15 @@ export default function Home() {
     <section className={styles.boxes} >
     <div className={styles.container}>
         <div className={styles.box} >
-            <h2><i class="fab fa-app-store"></i>Service 1 </h2>
+            <h2><i className="fab fa-app-store"></i>Service 1 </h2>
              <p>Monitor team productivity and performance via automated tools: take screenshots and screen recordings, log team activity levels</p>
         </div>
         <div className={styles.box} >
-            <h2><i class="fab fa-app-store"></i>Service 1 </h2>
+            <h2><i className="fab fa-app-store"></i>Service 1 </h2>
             <p>Monitor team productivity and performance via automated tools: take screenshots and screen recordings, log team activity levels</p>
        </div>
        <div className={styles.box} >
-        <h2><i class="fab fa-app-store"></i>Service 1 </h2>
+        <h2><i className="fab fa-app-store"></i>Service 1 </h2>
         <p>Monitor team productivity and performance via automated tools: take screenshots and screen recordings, log team activity levels</p>
    </div>
     </div>
