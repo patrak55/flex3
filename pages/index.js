@@ -3,6 +3,8 @@ import Image from 'next/image'
 import Navbar from '../components/Navbar'
 import styles from '../styles/Home.module.css'
 
+
+
 export default function Home() {
   return (
 
@@ -18,7 +20,7 @@ export default function Home() {
                <h1>Time tracking software 2</h1>
                <p>Monitor team productivity and performance via automated tools: take screenshots and screen recordings, log team activity levels, monitor app and web use, and a lot more…</p>
            </div>
-           <img  src="images/myimg01.jpg" alt="" />
+           <Image src="/images/myimg01.jpg" width="1000" height="667"  /> 
 
        </div>
    </header>
