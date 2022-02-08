@@ -1,4 +1,6 @@
 import styles from '../styles/Home.module.css'
+import Link from "next/link"
+
 
 const Navbar= () => {
     return ( 
@@ -8,13 +10,13 @@ const Navbar= () => {
         <div className={styles.logo} >FlexBox</div>
             <ul className={styles.nav} >
                 <li>
-                    <a href="#">Home</a>
+                    <Link href="/"><a href="#">Home</a></Link>
                 </li>
                 <li>
-                    <a href="#">About</a>
+                <Link href="/about"><a href="#">About</a></Link>
                 </li>
                 <li>
-                    <a href="#">Contact</a>
+                <Link href="/contact"><a href="#">Contact</a></Link>
                 </li>
             </ul>
        </div>
