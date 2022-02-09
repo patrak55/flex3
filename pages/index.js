@@ -24,8 +24,8 @@ export default function Home() {
     <header className={styles.header}>
        <div className={styles.container}>
            <div>
-               <h1>Time tracking software 2</h1>
-               <p>Monitor team productivity and performance via automated tools: take screenshots and screen recordings, log team activity levels, monitor app and web use, and a lot more…</p>
+               <h1>Furry Tag - QR Digital Pet Tags</h1>
+               <p>10 million cats and dogs get lost in the United States every year</p>
            </div>
            <Image src="/images/myimg01.jpg" width="1000" height="667" alt="rcr" /> 
 

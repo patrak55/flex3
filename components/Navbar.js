@@ -7,7 +7,7 @@ const Navbar= () => {
 <div>
 <nav className={styles.navbar}>
        <div className={styles.container} >
-        <div className={styles.logo} >FlexBox</div>
+        <div className={styles.logo} >FurryTag</div>
             <ul className={styles.nav} >
                 <li>
                     <Link href="/"><a href="#">Home</a></Link>

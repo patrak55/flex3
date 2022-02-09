@@ -15,8 +15,7 @@ const Contact = () => {
        <div className={styles.container}>
            <div>
                <h1>Contact</h1>
-               <p>Monitor team productivity and performance via automated tools: take screenshots and screen recordings, log team activity levels, monitor app and web use, and a lot more…</p>
-           </div>
+               <p>10 million cats and dogs get lost in the United States every year</p>           </div>
            <Image src="/images/myimg01.jpg" width="1000" height="667" alt="rcr" /> 
 
        </div>
