@@ -23,6 +23,24 @@ const About = () => {
        </div>
    </header>
 
+   <section className={styles.boxes} >
+    <div className={styles.container}>
+        <div className={styles.box} >
+            <h2><i className="fab fa-app-store"></i>Service 1 </h2>
+             <p>Monitor team productivity and performance via automated tools: take screenshots and screen recordings, log team activity levels</p>
+        </div>
+        <div className={styles.box} >
+            <h2><i className="fab fa-app-store"></i>Service 1 </h2>
+            <p>Monitor team productivity and performance via automated tools: take screenshots and screen recordings, log team activity levels</p>
+       </div>
+       <div className={styles.box} >
+        <h2><i className="fab fa-app-store"></i>Service 1 </h2>
+        <p>Monitor team productivity and performance via automated tools: take screenshots and screen recordings, log team activity levels</p>
+   </div>
+    </div>
+
+</section>
+
 
 </div>
 
