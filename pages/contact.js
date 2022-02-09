@@ -6,9 +6,9 @@ const Contact = () => {
     return ( 
 <div>
 <Head>
-        <title>My page title</title>
+        <title>Contact page</title>
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
-        <meta name="description" content="new description" />
+        <meta name="description" content="Contact description" />
    </Head>
 
    <header className={styles.header}>
