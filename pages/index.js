@@ -24,7 +24,7 @@ export default function Home() {
     <header className={styles.header}>
        <div className={styles.container}>
            <div>
-               <h1>Furry Tag - QR Digital Pet Tags</h1>
+               <h1>QR Digital Pet Tags</h1>
                <p>10 million cats and dogs get lost in the United States every year</p>
            </div>
            <Image src="/images/myimg01.jpg" width="1000" height="667" alt="rcr" /> 
